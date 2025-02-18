@@ -19,6 +19,7 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-rounded&logo=react&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-rounded&logo=redux&logoColor=white" />
   <img alt="nextjs" src="https://img.shields.io/badge/-Next.js-000000?style=flat-rounded&logo=nextdotjs&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-rounded&logo=npm&logoColor=white" />
   <br>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-rounded&logo=git&logoColor=white" />
   <img alt="github" src="https://img.shields.io/badge/-GitHub-000000?style=flat-rounded&logo=github&logoColor=white" />
@@ -29,7 +30,6 @@
   <img alt="word" style=" width: 55px; height: 20px" src="https://timeweb.com/ru/community/article/68/68482d207e2062b9a1edb7006600e41a.png" />
   <br>
   <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-rounded&logo=javascript&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-rounded&logo=npm&logoColor=white" />
 </p>
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProDev&show_icons=true&theme=dark)
