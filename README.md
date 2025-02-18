@@ -10,7 +10,7 @@
 
 # 💻 Tech Stack
 <p>
-    🔹 Knowledge <br>
+###🔹 Knowledge <br>
   <img style="margin-top: 10px;" alt="C++" src="https://img.shields.io/badge/-C++-4063e3?style=flat-rounded&logo=cplusplus&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-rounded&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS-456bf5?style=flat-rounded&logo=css3&logoColor=white" />
@@ -18,7 +18,6 @@
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-rounded&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-rounded&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-rounded&logo=react&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-rounded&logo=redux&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-rounded&logo=redux&logoColor=white" />
   <img alt="nextjs" src="https://img.shields.io/badge/-Next.js-000000?style=flat-rounded&logo=nextdotjs&logoColor=white" />
 </p>
