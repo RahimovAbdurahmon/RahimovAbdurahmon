@@ -9,8 +9,8 @@
 🔹 Passionate about open-source and sharing knowledge.<br>
 
 # 💻 Tech Stack
-<p>
   ![C++](https://img.shields.io/badge/-C++-4063e3?style=flat-square&logo=cplusplus&logoColor=white)
+<p>
   <img alt="cpp" src="https://img.shields.io/badge/-C++-4063e3?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS-456bf5?style=flat-square&logo=css3&logoColor=white" />
