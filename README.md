@@ -10,7 +10,7 @@
 
 # 💻 Tech Stack
 <p>
-  <img style="width: 90px; border-radius: 5px;" alt="cpp" src="https://img.shields.io/badge/-C++-4063e3?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img style="width: 90px; border-radius: 25px;" alt="cpp" src="https://img.shields.io/badge/-C++-4063e3?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS-456bf5?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
