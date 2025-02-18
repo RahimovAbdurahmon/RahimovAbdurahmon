@@ -9,7 +9,7 @@
 🔹 Passionate about open-source and sharing knowledge.<br>
 
 # 💻 Tech Stack
-    - Knowledge <br>
+    🔹 Knowledge <br>
 <p>
   <img alt="C++" src="https://img.shields.io/badge/-C++-4063e3?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
