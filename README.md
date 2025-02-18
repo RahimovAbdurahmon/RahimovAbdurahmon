@@ -22,7 +22,7 @@
   <br>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-rounded&logo=git&logoColor=white" />
   <img alt="github" src="https://img.shields.io/badge/-GitHub-000000?style=flat-rounded&logo=github&logoColor=white" />
-  <img alt="figma" src="https://img.shields.io/badge/Figma-orange?style=flat-rounded&logo=figma&logoColor=white" />
+  <img alt="figma" src="https://img.shields.io/badge/Figma-f52f7b?style=flat-rounded&logo=figma&logoColor=white" />
   <img alt="canva" src="https://img.shields.io/badge/Canva-2fa5f5?style=flat-rounded&logo=canva&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-rounded&logo=javascript&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-rounded&logo=npm&logoColor=white" />
