@@ -2,7 +2,7 @@
 
 💻 Software Engineer | 🚀 Frontend Developer | 🎯 Learning Python and Cybersecurity
 
-## My full Name is Rahimov Abudrahmon, a mentor and software engineer. I currently working at softclub academy as a junior developer with over 1 and half year of experience in the field. I've worked and practiced with lots of project while studying and working. I would like to improve my experience, work in various project and learn new technologies.
+<p style="font-family:sans-serif;">My full Name is Rahimov Abudrahmon, a mentor and software engineer. I currently working at softclub academy as a junior developer with over 1 and half year of experience in the field. I've worked and practiced with lots of project while studying and working. I would like to improve my experience, work in various project and learn new technologies.</p>
 
 🔹 I enjoy coding and creating awesome web applications.
 🔹 Always learning and improving my skills.
