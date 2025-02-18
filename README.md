@@ -25,7 +25,7 @@
   <img alt="figma" src="https://img.shields.io/badge/Figma-f52f7b?style=flat-rounded&logo=figma&logoColor=white" />
   <img alt="canva" src="https://img.shields.io/badge/Canva-2fa5f5?style=flat-rounded&logo=canva&logoColor=white" />
   <img alt="powerpoint" style="width: 65px; height: 20px" src="https://kayaconnect.org/pluginfile.php/383349/course/overviewfiles/powerpoint.png" />
-  <img alt="excel" style=" width: 65px; height: 20px" src="https://kayaconnect.org/pluginfile.php/383303/course/overviewfiles/excel.png" />
+  <img alt="excel" style=" width: 50px; height: 20px" src="https://kayaconnect.org/pluginfile.php/383303/course/overviewfiles/excel.png" />
   <br>
   <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-rounded&logo=javascript&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-rounded&logo=npm&logoColor=white" />
