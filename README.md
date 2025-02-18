@@ -24,6 +24,8 @@
   <img alt="github" src="https://img.shields.io/badge/-GitHub-000000?style=flat-rounded&logo=github&logoColor=white" />
   <img alt="figma" src="https://img.shields.io/badge/Figma-f52f7b?style=flat-rounded&logo=figma&logoColor=white" />
   <img alt="canva" src="https://img.shields.io/badge/Canva-2fa5f5?style=flat-rounded&logo=canva&logoColor=white" />
+  <img alt="powerpoint" style="border-radius: 5px;" src="https://kayaconnect.org/pluginfile.php/383349/course/overviewfiles/powerpoint.png" />
+  <br>
   <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-rounded&logo=javascript&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-rounded&logo=npm&logoColor=white" />
 </p>
