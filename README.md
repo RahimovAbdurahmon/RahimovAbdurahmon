@@ -56,7 +56,8 @@
 
 ## 📞 Contacts
 <ul>
-  <li>Via email<a href="abdurahmonrahimi1161ss@gmail.com"></a></li>
+  [📧 Email me](mailto:prodev@example.com)
+  <li>Via <a href="abdurahmonrahimi1161ss@gmail.com"><i>email</i></a></li>
   <li>Via phone number <span style="color: blue;">970257117</span></li>
 </ul>
 
