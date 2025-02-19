@@ -10,8 +10,8 @@
 
 ![](https://komarev.com/ghpvc/?username=RahimovAbdurahmon&color=e64949)
 ![GitHub followers](https://img.shields.io/github/followers/RahimovAbdurahmon?label=Followers&style=flat-rounded&color=e64949)
-![GitHub stars](https://img.shields.io/github/stars/RahimovAbdurahmon?label=Stars&style=flat-rounded&color=e64949)
-![GitHub stars](https://img.shields.io/github/stars/RahimovAbdurahmon?label=Stars&style=flat-rounded&color=e64949)
+![GitHub repo stars](https://img.shields.io/github/stars/RahimovAbdurahmon?label=Stars&style=flat-rounded&color=e64949)
+![GitHub repo](https://img.shields.io/github/stars/RahimovAbdurahmon?label=Stars&style=flat-rounded&color=e64949)
 
 
 ## 💻 Tech Stack
