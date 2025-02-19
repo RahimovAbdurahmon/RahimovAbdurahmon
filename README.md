@@ -8,6 +8,8 @@
 🔹 Always learning and improving my skills. <br>
 🔹 Passionate about open-source and sharing knowledge.<br>
 
+![](https://komarev.com/ghpvc/?username=cycosad&color=fb4362)
+
 ## 💻 Tech Stack
 <p>
   <img alt="C++" src="https://img.shields.io/badge/-C++-4063e3?style=flat-rounded&logo=cplusplus&logoColor=white" />
@@ -40,13 +42,10 @@
 
 ## ✨ Latest Projects
 <ul>
-  <li><a href="https://github.com/RahimovAbdurahmon/Royal-shop"><i>🔹Royal shop</i></a></li>
-  <li><a href="https://github.com/RahimovAbdurahmon/Admin-panel-online-shop"><i>🔹Admin Panlen online store</i></a></li>
-  <li><a href="https://github.com/RahimovAbdurahmon/Sass-project"><i>🔹Sass Project with HTML, CSS and Js</i></a></li>
+  <li><a href="https://github.com/RahimovAbdurahmon/Royal-shop"><i>Royal shop</i></a></li>
+  <li><a href="https://github.com/RahimovAbdurahmon/Admin-panel-online-shop"><i>Admin Panlen online store</i></a></li>
+  <li><a href="https://github.com/RahimovAbdurahmon/Sass-project"><i>Sass Project with HTML, CSS and Js</i></a></li>
 </ul>
-
-💬 **Let’s connect!**  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourhandle)  
 
 
 Frontend Developer
