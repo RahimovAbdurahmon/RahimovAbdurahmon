@@ -37,9 +37,9 @@
   <img alt="excel" style=" width: 50px; height: 20px" src="https://kayaconnect.org/pluginfile.php/383303/course/overviewfiles/excel.png" />
   <img alt="word" style=" width: 55px; height: 20px" src="https://timeweb.com/ru/community/article/68/68482d207e2062b9a1edb7006600e41a.png" />
 </p>
-## ✨ Latest Projects
-🔹 [Royal shop](https://github.com/RahimovAbdurahmon/Royal-shop)
-🔹 [Admin Panlen online store](https://github.com/RahimovAbdurahmon/Admin-panel-online-shop)
+## ✨ Latest Projects <br>
+🔹 [Royal shop](https://github.com/RahimovAbdurahmon/Royal-shop)<br>
+🔹 [Admin Panlen online store](https://github.com/RahimovAbdurahmon/Admin-panel-online-shop)<br>
 🔹 [Sass Project with HTML, CSS and Js](https://github.com/RahimovAbdurahmon/Sass-project) <br>
 
 💬 **Let’s connect!**  
