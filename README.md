@@ -9,7 +9,7 @@
 🔹 Passionate about open-source and sharing knowledge.<br>
 
 ![](https://komarev.com/ghpvc/?username=RahimovAbdurahmon&color=fb4362)
-![React UI Libraries Badge](https://img.shields.io/badge/Top%20React%20UI%20Libraries-🔥%20Trending-blue?style=for-the-badge&logo=react)
+![GitHub followers](https://img.shields.io/github/followers/RahimovAbdurahmon?label=FOLLOWERS&style=for-the-badge&color=red)
 
 
 ## 💻 Tech Stack
