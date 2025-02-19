@@ -53,8 +53,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahimzoda_051) 
 [![Telegram](https://img.shields.io/badge/Telegram-46b0f2?logo=telegram&logoColor=white)](https://t.me/Abdu_RahmonRahimov) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdurahmon-rahimov-59041b2a8/)
-
-## 📞 Contacts
-🔹 [Via email](mailto:abdurahmonrahimi1161ss@gmail.com) <br>
-🔹 Via phone 970257117
-
