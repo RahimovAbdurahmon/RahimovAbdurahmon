@@ -55,6 +55,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdurahmon-rahimov-59041b2a8/)
 
 ## 📞 Contacts
-🔹 [Via email](mailto:prodev@example.com)
+🔹 [Via email](mailto:abdurahmonrahimi1161ss@gmail.com) <br>
 🔹 Via phone 970257117
 
