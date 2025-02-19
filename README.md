@@ -10,8 +10,6 @@
 
 ![](https://komarev.com/ghpvc/?username=RahimovAbdurahmon&color=e64949)
 ![GitHub followers](https://img.shields.io/github/followers/RahimovAbdurahmon?label=Followers&style=flat-rounded&color=e64949)
-![GitHub Repo stars](https://img.shields.io/github/stars/RahimovAbdurahmon?label=Stars&style=flat-rounded&color=e64949)
-![GitHub stars](https://img.shields.io/github/stars/RahimovAbdurahmon?label=Stars&style=flat-rounded&color=e64949)
 
 
 ## 💻 Tech Stack
@@ -50,6 +48,9 @@
   <li><a href="https://github.com/RahimovAbdurahmon/Admin-panel-online-shop"><i>Admin Panlen online store</i></a></li>
   <li><a href="https://github.com/RahimovAbdurahmon/Sass-project"><i>Sass Project with HTML, CSS and Js</i></a></li>
 </ul>
+
+## 🌐 Socials:
+
 
 
 Frontend Developer
