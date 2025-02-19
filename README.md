@@ -9,7 +9,8 @@
 🔹 Passionate about open-source and sharing knowledge.<br>
 
 ![](https://komarev.com/ghpvc/?username=RahimovAbdurahmon&color=fb4362)
-![GitHub followers](https://img.shields.io/github/followers/RahimovAbdurahmon?label=FOLLOWERS&style=for-the-badge&color=red)
+![GitHub followers](https://img.shields.io/github/followers/RahimovAbdurahmon?label=FOLLOWERS&style=flat-rounded&color=red)
+![GitHub followers](https://img.shields.io/github/stars/RahimovAbdurahmon?label=STARS&style=flat-rounded&color=red)
 
 
 ## 💻 Tech Stack
