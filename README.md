@@ -8,7 +8,7 @@
 🔹 Always learning and improving my skills. <br>
 🔹 Passionate about open-source and sharing knowledge.<br>
 
-![](https://komarev.com/ghpvc/?username=cycosad&color=fb4362)
+![](https://komarev.com/ghpvc/?username=RahimovAbdurahmon&color=fb4362)
 
 ## 💻 Tech Stack
 <p>
