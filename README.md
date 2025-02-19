@@ -21,19 +21,21 @@
   <img alt="nextjs" src="https://img.shields.io/badge/-Next.js-000000?style=flat-rounded&logo=nextdotjs&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-rounded&logo=npm&logoColor=white" />
   <br>
+  <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-17b5e6?style=flat-rounded&logo=tailwindcss&logoColor=white" />
+  <img alt="Mui" src="https://img.shields.io/badge/-MUI-2034e8?style=flat-rounded&logo=mui&logoColor=white" />
+  <img alt="Antd" src="https://img.shields.io/badge/-Antdesign-399bf7?style=flat-rounded&logo=antdesign&logoColor=white" />
+  <img alt="shadcnui" src="https://img.shields.io/badge/-Shadcn%20ui-000000?style=flat-rounded&logo=shadcnui&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-rounded&logo=javascript&logoColor=white" />
+  <img alt="Swiper" src="https://img.shields.io/badge/-Swiper-0f48ab?style=flat-rounded&logo=swiper&logoColor=white" />
+  <br>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-rounded&logo=git&logoColor=white" />
   <img alt="github" src="https://img.shields.io/badge/-GitHub-000000?style=flat-rounded&logo=github&logoColor=white" />
+  <img alt="vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-rounded&logo=vercel&logoColor=white" />
   <img alt="figma" src="https://img.shields.io/badge/Figma-f52f7b?style=flat-rounded&logo=figma&logoColor=white" />
   <img alt="canva" src="https://img.shields.io/badge/Canva-2fa5f5?style=flat-rounded&logo=canva&logoColor=white" />
   <img alt="powerpoint" style="width: 65px; height: 20px" src="https://kayaconnect.org/pluginfile.php/383349/course/overviewfiles/powerpoint.png" />
   <img alt="excel" style=" width: 50px; height: 20px" src="https://kayaconnect.org/pluginfile.php/383303/course/overviewfiles/excel.png" />
   <img alt="word" style=" width: 55px; height: 20px" src="https://timeweb.com/ru/community/article/68/68482d207e2062b9a1edb7006600e41a.png" />
-  <br>
-  <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind%20ui-17b5e6?style=flat-rounded&logo=tailwindcss&logoColor=white" />
-  <img alt="Mui" src="https://img.shields.io/badge/-MUI-2034e8?style=flat-rounded&logo=mui&logoColor=white" />
-  <img alt="Antd" src="https://img.shields.io/badge/-Antdesign-399bf7?style=flat-rounded&logo=antdesign&logoColor=white" />
-  <img alt="shadcnui" src="https://img.shields.io/badge/-Shadcn%20ui-000000?style=flat-rounded&logo=shadcnui&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-rounded&logo=javascript&logoColor=white" />
 </p>
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProDev&show_icons=true&theme=dark)
