@@ -40,13 +40,10 @@
 
 ## ✨ Latest Projects
 <ul>
-  <li><a href="https://github.com/RahimovAbdurahmon/Royal-shop"><i>Royal shop</i></a></li>
-  <li><a href="https://github.com/RahimovAbdurahmon/Admin-panel-online-shop"><i>Admin Panlen online store</i></a></li>
-  <li><a href="https://github.com/RahimovAbdurahmon/Sass-project"><i>[Sass Project with HTML, CSS and Js</i></a></li>
+  <li><a href="https://github.com/RahimovAbdurahmon/Royal-shop"><i>🔹Royal shop</i></a></li>
+  <li><a href="https://github.com/RahimovAbdurahmon/Admin-panel-online-shop"><i>🔹Admin Panlen online store</i></a></li>
+  <li><a href="https://github.com/RahimovAbdurahmon/Sass-project"><i>🔹Sass Project with HTML, CSS and Js</i></a></li>
 </ul>
-🔹 [Royal shop](https://github.com/RahimovAbdurahmon/Royal-shop) <br>
-🔹 [Admin Panlen online store](https://github.com/RahimovAbdurahmon/Admin-panel-online-shop) <br>
-🔹 [Sass Project with HTML, CSS and Js](https://github.com/RahimovAbdurahmon/Sass-project) <br>
 
 💬 **Let’s connect!**  
 [LinkedIn](https://linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourhandle)  
