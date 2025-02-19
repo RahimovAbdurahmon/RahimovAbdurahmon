@@ -8,7 +8,7 @@
 🔹 Always learning and improving my skills. <br>
 🔹 Passionate about open-source and sharing knowledge.<br>
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 <p>
   <img alt="C++" src="https://img.shields.io/badge/-C++-4063e3?style=flat-rounded&logo=cplusplus&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-rounded&logo=html5&logoColor=white" />
@@ -37,12 +37,10 @@
   <img alt="excel" style=" width: 50px; height: 20px" src="https://kayaconnect.org/pluginfile.php/383303/course/overviewfiles/excel.png" />
   <img alt="word" style=" width: 55px; height: 20px" src="https://timeweb.com/ru/community/article/68/68482d207e2062b9a1edb7006600e41a.png" />
 </p>
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProDev&show_icons=true&theme=dark)
-
 ## ✨ Latest Projects
-- 🔹 [My Cool Dashboard](https://github.com/ProDev/my-dashboard)
-- 🔹 [Task Manager App](https://github.com/ProDev/task-manager)
+🔹 [Royal shop](https://github.com/RahimovAbdurahmon/Royal-shop)
+🔹 [Admin Panlen online store](https://github.com/RahimovAbdurahmon/Admin-panel-online-shop)
+🔹 [Sass Project with HTML, CSS and Js](https://github.com/RahimovAbdurahmon/Sass-project) <br>
 
 💬 **Let’s connect!**  
 [LinkedIn](https://linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourhandle)  
