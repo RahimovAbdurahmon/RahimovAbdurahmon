@@ -29,6 +29,10 @@
   <img alt="excel" style=" width: 50px; height: 20px" src="https://kayaconnect.org/pluginfile.php/383303/course/overviewfiles/excel.png" />
   <img alt="word" style=" width: 55px; height: 20px" src="https://timeweb.com/ru/community/article/68/68482d207e2062b9a1edb7006600e41a.png" />
   <br>
+  <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind%20ui-17b5e6?style=flat-rounded&logo=tailwindcss&logoColor=white" />
+  <img alt="Mui" src="https://img.shields.io/badge/-MUI-2034e8?style=flat-rounded&logo=mui&logoColor=white" />
+  <img alt="Antd" src="https://img.shields.io/badge/-Antdesign-399bf7?style=flat-rounded&logo=antdesign&logoColor=white" />
+  <img alt="shadcnui" src="https://img.shields.io/badge/-Shadcn%20ui-000000?style=flat-rounded&logo=shadcnui&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-rounded&logo=javascript&logoColor=white" />
 </p>
 ## 📊 GitHub Stats
