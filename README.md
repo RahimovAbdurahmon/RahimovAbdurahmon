@@ -6,8 +6,8 @@
 🔹 Always learning and improving my skills. <br>
 🔹 Passionate about open-source and sharing knowledge.<br>
 
-![](https://komarev.com/ghpvc/?username=RahimovAbdurahmon&color=e64949)
-![GitHub followers](https://img.shields.io/github/followers/RahimovAbdurahmon?label=Followers&style=flat-rounded&color=e64949)
+// ![](https://komarev.com/ghpvc/?username=RahimovAbdurahmon&color=e64949)
+// ![GitHub followers](https://img.shields.io/github/followers/RahimovAbdurahmon?label=Followers&style=flat-rounded&color=e64949)
 
 
 ## 💻 Tech Stack
