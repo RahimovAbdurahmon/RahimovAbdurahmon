@@ -1,7 +1,5 @@
 # 👋 Hi there! I'm Abdurahmon
 
-💻 Software Engineer | 🚀 Frontend Developer | 🎯 Learning Python and Cybersecurity
-
 <p style="font-family:sans-serif;">My full Name is Rahimov Abudrahmon, a mentor and software engineer. I currently working at softclub academy as a junior developer with over 1 and half year of experience in the field. I've worked and practiced with lots of project while studying and working. I would like to improve my experience, work in various project and learn new technologies.</p>
 
 🔹 I enjoy coding and creating awesome web applications. <br>
@@ -37,9 +35,6 @@
   <img alt="vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-rounded&logo=vercel&logoColor=white" />
   <img alt="figma" src="https://img.shields.io/badge/Figma-f52f7b?style=flat-rounded&logo=figma&logoColor=white" />
   <img alt="canva" src="https://img.shields.io/badge/Canva-2fa5f5?style=flat-rounded&logo=canva&logoColor=white" />
-  <img alt="powerpoint" style="width: 65px; height: 20px" src="https://kayaconnect.org/pluginfile.php/383349/course/overviewfiles/powerpoint.png" />
-  <img alt="excel" style=" width: 50px; height: 20px" src="https://kayaconnect.org/pluginfile.php/383303/course/overviewfiles/excel.png" />
-  <img alt="word" style=" width: 55px; height: 20px" src="https://timeweb.com/ru/community/article/68/68482d207e2062b9a1edb7006600e41a.png" />
 </p>
 
 ## ✨ Latest Projects
